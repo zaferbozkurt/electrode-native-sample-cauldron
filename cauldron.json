@@ -49,13 +49,12 @@
                 "react-native-ernmovie-api@0.0.9",
                 "react-native-ernnavigation-api@0.0.3"
               ],
-              "miniApps": {
                 "container": [
-                  "movielistminiapp@0.0.4",
-                  "moviedetailsminiapp@0.0.3"
+                 "miniApps":[
+                "https://github.com/ozcanzaferayan/movies-reloaded-miniapp.git"
+                ]
                 ],
-                "codePush": []
-              },
+               
               "containerVersion": "1.0.1"
             }
           ],
